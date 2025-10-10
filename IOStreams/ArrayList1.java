@@ -6,7 +6,8 @@ public class ArrayList1 {
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
+        cars.add("BMW");
         cars.add("Mazda");
-        System.out.println(cars); 
+        System.out.println(cars);
     }
 }
